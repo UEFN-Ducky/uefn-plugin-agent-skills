@@ -130,7 +130,7 @@ Use references as evidence, not as templates. If references are unavailable, doc
 
 ### Avoid the AI Aesthetic
 
-AI-generated UI has recognizable patterns. Avoid all of them:
+AI-generated UI has recognizable patterns. Avoid all of them. The table below is the short form; for a real redesign or polish pass load `unslop` (direction, nine passes, checklist), with `unslop_signs` for the full audit list and `unslop_tokens` for exact values:
 
 | AI Default | Why It Is a Problem | Production Quality |
 |---|---|---|
