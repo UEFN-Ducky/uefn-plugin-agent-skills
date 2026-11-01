@@ -1,7 +1,7 @@
 {
   "id": "agent-skills",
   "kind": "plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "label": "Agent Skills",
   "description": "Addy Osmani's Agent Skills for coding agents: 24 senior-engineer workflows (spec, plan, build in thin slices, test first, debug, code review, simplify, security, performance, git, CI/CD, docs, launch), reviewer personas, checklists and the /spec to /ship commands. One skill pack, no tools.",
   "min_app_version": "1.0.0",
